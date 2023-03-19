@@ -12,7 +12,7 @@ export const GifExpertApp = () => {
     }
 
     const resetButton = () => {
-      setCategories([]);
+        setCategories([]);
     }
     
 
